@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.noti-bar {
+  color: white;
+  background-color: #D50000;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.padding-bot-10 {
+  padding-bottom: 10px;
+}
